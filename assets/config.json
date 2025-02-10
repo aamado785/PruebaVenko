@@ -1,0 +1,6 @@
+{
+  "base_url": "http://44.211.238.32:8570/clinica/api",
+  "auth_url": "/authenticate",
+  "paciente_url": "/paciente",
+  "medico_url": "/medico"
+}
